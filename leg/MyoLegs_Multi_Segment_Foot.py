@@ -47,7 +47,6 @@ model = mujoco.MjModel.from_xml_string("""
 -->
 </mujoco>
 
-</mujoco>
 """)
 
 launch(model)
