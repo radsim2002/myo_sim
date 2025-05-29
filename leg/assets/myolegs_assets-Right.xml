@@ -123,12 +123,12 @@
         <joint joint1="knee_angle_l_beta_rotation1" joint2="knee_angle_l" name="knee_angle_l_beta_rotation1_constraint" polycoef="0.010506 0.0247615 -1.31647 0.716337 -0.138302" solimp="0.9999 0.9999 0.001 0.5 2"/>
     </equality>
 
-    
+    <!--
     <sensor>
         <touch name="r_foot" site="r_foot_touch"/>
         <touch name="r_toes" site="r_toes_touch"/>
         <touch name="l_foot" site="l_foot_touch"/>
         <touch name="l_toes" site="l_toes_touch"/>
     </sensor>
-    
+    --> 
 </mujocoinclude>

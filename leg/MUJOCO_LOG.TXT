@@ -1,0 +1,2703 @@
+Mon May 26 09:03:43 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:03:43 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:03:43 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:03:43 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:03:43 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:03:43 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:03:44 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:03:51 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:03:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:03:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:03:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:03:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:03:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:03:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:05:07 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:05:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:05:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:06:46 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:06:46 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_abdomen_assets.xml' with default provider at slot 1
+
+Mon May 26 09:06:46 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:06:46 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:06:46 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:06:46 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_abdomen_chain.xml' with default provider at slot 1
+
+Mon May 26 09:06:46 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:06:57 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:06:57 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:06:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:06:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:06:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:06:57 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:06:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:07:17 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:07:17 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:07:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:07:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:07:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:07:17 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:07:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:09:13 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:09:13 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:09:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:09:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:09:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:09:13 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:09:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:46:14 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:46:14 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:46:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:46:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:46:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:46:14 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:46:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:46:23 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:46:23 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:46:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:46:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:46:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:46:23 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:46:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:46:33 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:46:33 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:46:33 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:46:33 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:46:33 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:46:33 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:46:33 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:50:40 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:50:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:50:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:50:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:50:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:50:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:50:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 09:50:54 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 09:50:54 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 09:50:54 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 09:50:54 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 09:50:54 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 09:50:54 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 09:50:54 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 10:07:27 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 10:07:27 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 10:07:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 10:07:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 10:07:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 10:07:27 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 10:07:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 10:15:15 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 10:15:15 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 10:15:15 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 10:15:15 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 10:15:15 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 10:15:15 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 10:15:15 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 10:19:02 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 10:19:02 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 10:19:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 10:19:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 10:19:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 10:19:02 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 10:19:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 10:19:18 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 10:19:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 10:19:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 10:19:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 10:19:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 10:19:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 10:19:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 10:41:22 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 10:41:22 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 10:41:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 10:41:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 10:41:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 10:41:22 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 10:41:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:05:07 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:05:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:05:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:05:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:06:52 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:06:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:06:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:06:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:06:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:06:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:06:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:07:20 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:07:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:07:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:07:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:07:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:07:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:07:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:07:51 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:07:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:07:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:07:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:07:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:07:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:07:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:08:03 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:08:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:08:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:08:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:08:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:08:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:08:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:08:48 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:08:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:08:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:08:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:08:58 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:08:58 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:08:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:08:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:08:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:08:58 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:08:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:09 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:09:09 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:09:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:09:09 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:17 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:09:17 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:09:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:09:17 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:17 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:28 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:09:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:09:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:09:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:36 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:09:36 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:36 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:36 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:09:36 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:09:36 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:36 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:48 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:09:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:09:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:08 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:10:08 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:10:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:10:08 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:18 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:10:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:10:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:10:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:25 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:10:25 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:10:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:10:25 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:56 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:10:56 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:10:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:10:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:10:56 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:10:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:11:07 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:11:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:11:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:11:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:11:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:11:08 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:11:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:11:24 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:11:24 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:11:24 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:11:24 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:11:24 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:11:24 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:11:24 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:11:47 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:11:47 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:11:47 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:11:47 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:11:47 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:11:47 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:11:47 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:12:03 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:12:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:12:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:12:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:12:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:12:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:12:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:12:14 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:12:14 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:12:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:12:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:12:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:12:14 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:12:14 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:13:21 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:13:21 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:13:21 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:13:21 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:13:21 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:13:21 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:13:21 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:13:34 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:13:34 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:13:34 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:13:34 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:13:34 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:13:34 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:13:34 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:13:51 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:13:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:13:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:13:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:13:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:13:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:13:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:14:06 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:14:06 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:14:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:14:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:14:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:14:06 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:14:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:14:28 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:14:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:14:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:14:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:14:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:14:29 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:14:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:14:52 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:14:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:14:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:14:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:14:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:14:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:14:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:15:16 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:15:16 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:15:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:15:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:15:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:15:16 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:15:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:15:37 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:15:37 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:15:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:15:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:15:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:15:37 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:15:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:15:52 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:15:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:15:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:16:20 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:16:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:16:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:16:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:16:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:16:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:16:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:18:28 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:18:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:18:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:18:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:18:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:18:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:18:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 13:51:29 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 13:51:29 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 13:51:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 13:51:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 13:51:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 13:51:29 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 13:51:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:09:02 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:09:02 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:09:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:09:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:09:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:09:02 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:09:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:09:48 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:09:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:09:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:09:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:12:45 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:12:45 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:12:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:12:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:12:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:12:45 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:12:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:14:48 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:14:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:14:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:14:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:14:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:14:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:14:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:16:32 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:16:32 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:16:32 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:16:32 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:16:32 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:16:32 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:16:32 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:17:29 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:17:29 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:17:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:17:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:17:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:17:29 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:17:29 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:19:09 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:19:09 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:19:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:19:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:19:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:19:09 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:19:09 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:20:57 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:20:57 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:20:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:20:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:20:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:20:57 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:20:57 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:22:19 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:22:19 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:22:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:22:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:22:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:22:19 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:22:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:23:50 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:23:50 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:23:50 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:23:50 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:23:50 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:23:50 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:23:50 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:27:20 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:27:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:27:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:27:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:27:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:27:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:27:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:28:03 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:28:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:28:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:28:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:28:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:28:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:28:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:28:45 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:28:45 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:28:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:28:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:28:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:28:46 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:28:46 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:29:56 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:29:56 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:29:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:29:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:29:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:29:56 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:29:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:30:31 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:30:31 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:30:31 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:30:31 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:30:31 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:30:31 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:30:31 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:31:13 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:31:13 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:31:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:31:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:31:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:31:13 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:31:13 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:32:42 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:32:42 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:32:42 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:32:42 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:32:42 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:32:42 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:32:42 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:33:19 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:33:19 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:33:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:33:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:33:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:33:19 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:33:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:35:43 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:35:43 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:35:43 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:35:43 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:35:43 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:35:43 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:35:44 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:35:55 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:35:55 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:35:55 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:35:55 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:35:55 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:35:55 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:35:55 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:37:45 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:37:45 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:37:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:37:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:37:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:37:45 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:37:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:38:03 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:38:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:38:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:38:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:38:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:38:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:38:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:38:56 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:38:56 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:38:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:38:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:38:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:38:56 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:38:56 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:39:07 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:39:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:39:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:39:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:39:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:39:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:39:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:39:22 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:39:22 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:39:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:39:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:39:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:39:22 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:39:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:39:38 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:39:38 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:39:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:39:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:39:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:39:38 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:39:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:40:01 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:40:01 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:40:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:40:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:40:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:40:01 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:40:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:40:35 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:40:35 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:40:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:40:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:40:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:40:35 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:40:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:41:05 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:41:05 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:41:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:41:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:41:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:41:05 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:41:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:41:18 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:41:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:41:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:41:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:41:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:41:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:41:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:42:08 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:42:08 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:42:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:42:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:42:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:42:08 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:42:08 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:45:25 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:45:25 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:45:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:45:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:45:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:45:25 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:45:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:45:28 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:45:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:45:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:45:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:45:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:45:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:45:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:45:36 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:45:36 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:45:36 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:45:36 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:45:36 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:45:36 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:45:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:47:44 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:47:44 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:47:44 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:47:44 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:47:44 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:47:44 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:47:44 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 14:59:25 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 14:59:25 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 14:59:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 14:59:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 14:59:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 14:59:25 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 14:59:25 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:00:38 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:00:38 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:00:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:00:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:00:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:00:38 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:00:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:00:51 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:00:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:00:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:00:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:00:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:00:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:00:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:01:11 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:01:11 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:01:11 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:01:11 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:01:11 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:01:11 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:01:11 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:01:23 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:01:23 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:01:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:01:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:01:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:01:23 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:01:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:02:40 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:02:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:02:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:02:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:02:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:02:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:02:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:08:41 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:08:41 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:08:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:08:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:08:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:08:41 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:08:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:20:22 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:20:22 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:20:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:20:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:20:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:20:22 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:20:22 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:21:20 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:21:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:21:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:21:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:21:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:21:20 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:21:20 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:21:40 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:21:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:21:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:21:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:21:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:21:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:21:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:22:16 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:22:16 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:22:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:22:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:22:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:22:16 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:22:16 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:23:03 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:23:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:23:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:23:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:23:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:23:03 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:23:03 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:27:01 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:27:01 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:27:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:27:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:27:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:27:01 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:27:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Mon May 26 15:27:58 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Mon May 26 15:27:58 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Mon May 26 15:27:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Mon May 26 15:27:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Mon May 26 15:27:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Mon May 26 15:27:58 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Mon May 26 15:27:58 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 09:58:58 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 09:58:59 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 09:58:59 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 09:58:59 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 09:58:59 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 09:58:59 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 09:58:59 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 09:59:04 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 09:59:04 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 09:59:04 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 09:59:04 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 09:59:04 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 09:59:04 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 09:59:04 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:02:51 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:02:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:02:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:02:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:02:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:02:51 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:02:51 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:06:06 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:06:06 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:06:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:06:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:06:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:06:06 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:06:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:15:52 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:15:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:15:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:15:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:17:40 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:17:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:17:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:17:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:17:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:17:40 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:17:40 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:20:10 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:20:10 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:20:10 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:20:10 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:20:10 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:20:10 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:20:10 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:23:39 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:23:39 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:23:39 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:23:39 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:23:39 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:23:39 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:23:39 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:26:01 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:26:01 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:26:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:26:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:26:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:26:01 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:26:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:27:26 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:27:26 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:27:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:27:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:27:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:27:26 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:27:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:29:52 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:29:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:29:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:29:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:29:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:29:52 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:29:52 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:30:01 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:30:01 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:30:01 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:30:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:30:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:30:02 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:30:02 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:31:27 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:31:27 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:31:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:31:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:31:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:31:27 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:31:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 10:37:06 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 10:37:06 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 10:37:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 10:37:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 10:37:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 10:37:07 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 10:37:07 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 11:57:23 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 11:57:23 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 11:57:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 11:57:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 11:57:23 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 11:57:24 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 11:57:24 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 11:57:54 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 11:57:54 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 11:57:54 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 11:57:55 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 11:57:55 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 11:57:55 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 11:57:55 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:21:35 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:21:35 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:21:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:21:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:21:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:21:35 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:21:35 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:21:41 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:21:41 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:21:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:21:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:21:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:21:41 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:21:41 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:21:48 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:21:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:21:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:21:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:21:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:21:48 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:21:48 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:24:37 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:24:37 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:24:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:24:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:24:37 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:24:38 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:24:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:27:45 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:27:45 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:27:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:27:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:27:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:27:45 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:27:45 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:28:10 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:28:10 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:28:10 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:28:10 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:28:11 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:28:11 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:28:11 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:31:05 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:31:05 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:31:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:31:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:31:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:31:05 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:31:05 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 12:38:19 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 12:38:19 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 12:38:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 12:38:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 12:38:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 12:38:19 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 12:38:19 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Tue May 27 15:16:26 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Tue May 27 15:16:26 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Tue May 27 15:16:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Tue May 27 15:16:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Tue May 27 15:16:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Tue May 27 15:16:26 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Tue May 27 15:16:26 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Wed May 28 10:32:27 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Wed May 28 10:32:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Wed May 28 10:32:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Wed May 28 10:32:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Wed May 28 10:32:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Wed May 28 10:32:28 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Wed May 28 10:32:28 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Wed May 28 10:36:38 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Wed May 28 10:36:38 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Wed May 28 10:36:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets.xml' with default provider at slot 1
+
+Wed May 28 10:36:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon.xml' with default provider at slot 1
+
+Wed May 28 10:36:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle.xml' with default provider at slot 1
+
+Wed May 28 10:36:38 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Wed May 28 10:36:38 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Wed May 28 10:41:27 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Wed May 28 10:41:27 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Wed May 28 10:41:27 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets -Right.xml' with default provider at slot 1
+
+Wed May 28 10:41:27 2025
+WARNING: mju_openResource: unknown file '../leg/assets/myolegs_assets -Right.xml'
+
+Wed May 28 10:41:32 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Wed May 28 10:41:32 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Wed May 28 10:41:32 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets-Right.xml' with default provider at slot 1
+
+Wed May 28 10:41:32 2025
+WARNING: mju_openResource: unknown file '../leg/assets/myolegs_assets-Right.xml'
+
+Wed May 28 10:42:18 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Wed May 28 10:42:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Wed May 28 10:42:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets-Right.xml' with default provider at slot 1
+
+Wed May 28 10:42:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon-Right.xml' with default provider at slot 1
+
+Wed May 28 10:42:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle-Right.xml' with default provider at slot 1
+
+Wed May 28 10:42:18 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Wed May 28 10:42:18 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain.xml' with default provider at slot 1
+
+Wed May 28 10:44:06 2025
+WARNING: mju_openResource: could not open resource '../scene/myosuite_scene_noPedestal.xml' with default provider at slot 1
+
+Wed May 28 10:44:06 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_assets.xml' with default provider at slot 1
+
+Wed May 28 10:44:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_assets-Right.xml' with default provider at slot 1
+
+Wed May 28 10:44:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_tendon-Right.xml' with default provider at slot 1
+
+Wed May 28 10:44:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_muscle-Right.xml' with default provider at slot 1
+
+Wed May 28 10:44:06 2025
+WARNING: mju_openResource: could not open resource '../torso/assets/myotorso_rigid_chain.xml' with default provider at slot 1
+
+Wed May 28 10:44:06 2025
+WARNING: mju_openResource: could not open resource '../leg/assets/myolegs_chain-Right.xml' with default provider at slot 1
+
