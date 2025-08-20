@@ -101,7 +101,19 @@
 		<general name="abd_hallucis_l" class="muscle" tendon="abd_hallucis_l_tendon" lengthrange="0.191552 0.240302" gainprm="0.811793 1.92686 1478.95 1 0 2 10 4.15221 1.4 0" biasprm="0.811793 1.92686 1478.95 1 0 2 10 4.15221 1.4 0"/>
 		<general name="fdb_l" class="muscle" tendon="fdb_l_tendon" lengthrange="0.144052 0.193175" gainprm="0.156157 1.77373 974.722 1 0 2 10 3.0038 1.4 0" biasprm="0.156157 1.77373 974.722 1 0 2 10 3.0038 1.4 0"/>
 		<general name="qp_l" class="muscle" tendon="qp_l_tendon" lengthrange="0.0692386 0.0792027" gainprm="0.01 1.20174 450 1 0 2 10 2.43472 1.4 0" biasprm="0.01 1.20174 450 1 0 2 10 2.43472 1.4 0"/>
-
+        <general name="soleus_r" class="muscle" tendon="soleus_r_tendon" lengthrange="0.255482 0.336221" gainprm="0.151423 1.29214 3335.58 1 0 2 10 1.14384 1.4 0" biasprm="0.151423 1.29214 3335.58 1 0 2 10 1.14384 1.4 0"/>
+		<general name="tib_post_r" class="muscle" tendon="tib_post_r_tendon" lengthrange="0.338504 0.373341" gainprm="0.507735 1.25026 1548.08 1 0 2 10 1.55669 1.4 0" biasprm="0.507735 1.25026 1548.08 1 0 2 10 1.55669 1.4 0"/>
+		<general name="flex_dig_r" class="muscle" tendon="flex_dig_r_tendon" lengthrange="0.411692 0.468544" gainprm="0.0539894 1.13624 310.819 1 0 2 10 1.76184 1.4 0" biasprm="0.0539894 1.13624 310.819 1 0 2 10 1.76184 1.4 0"/>
+		<general name="flex_hal_r" class="muscle" tendon="flex_hal_r_tendon" lengthrange="0.389337 0.47588" gainprm="0.0782507 1.41335 309.724 1 0 2 10 1.89292 1.4 0" biasprm="0.0782507 1.41335 309.724 1 0 2 10 1.89292 1.4 0"/>
+		<general name="tib_ant_r" class="muscle" tendon="tib_ant_r_tendon" lengthrange="0.272771 0.369801" gainprm="0.331556 1.35194 909.755 1 0 2 10 1.17714 1.4 0" biasprm="0.331556 1.35194 909.755 1 0 2 10 1.17714 1.4 0"/>
+		<general name="per_brev_r" class="muscle" tendon="per_brev_r_tendon" lengthrange="0.210171 0.284755" gainprm="0.67669 1.74839 436.946 1 0 2 10 3.22266 1.4 0" biasprm="0.67669 1.74839 436.946 1 0 2 10 3.22266 1.4 0"/>
+		<general name="per_long_r" class="muscle" tendon="per_long_r_tendon" lengthrange="0.401686 0.449898" gainprm="0.731087 1.42291 927.159 1 0 2 10 1.87555 1.4 0" biasprm="0.731087 1.42291 927.159 1 0 2 10 1.87555 1.4 0"/>
+		<general name="per_tert_r" class="muscle" tendon="per_tert_r_tendon" lengthrange="0.14136 0.227994" gainprm="0.457808 1.37394 179.129 1 0 2 10 1.19934 1.4 0" biasprm="0.457808 1.37394 179.129 1 0 2 10 1.19934 1.4 0"/>
+		<general name="ext_dig_r" class="muscle" tendon="ext_dig_r_tendon" lengthrange="0.404673 0.514357" gainprm="0.392403 1.41009 513.104 1 0 2 10 1.0151 1.4 0" biasprm="0.392403 1.41009 513.104 1 0 2 10 1.0151 1.4 0"/>
+		<general name="ext_hal_r" class="muscle" tendon="ext_hal_r_tendon" lengthrange="0.382264 0.463987" gainprm="0.556612 1.06154 166.075 1 0 2 10 4.55175 1.4 0" biasprm="0.556612 1.06154 166.075 1 0 2 10 4.55175 1.4 0"/>
+		<general name="abd_hallucis_r" class="muscle" tendon="abd_hallucis_r_tendon" lengthrange="0.191552 0.240302" gainprm="0.811793 1.92686 1478.95 1 0 2 10 4.15221 1.4 0" biasprm="0.811793 1.92686 1478.95 1 0 2 10 4.15221 1.4 0"/>
+		<general name="fdb_r" class="muscle" tendon="fdb_r_tendon" lengthrange="0.144052 0.193175" gainprm="0.156157 1.77373 974.722 1 0 2 10 3.0038 1.4 0" biasprm="0.156157 1.77373 974.722 1 0 2 10 3.0038 1.4 0"/>
+		<general name="qp_r" class="muscle" tendon="qp_r_tendon" lengthrange="0.0692386 0.0792027" gainprm="0.01 1.20174 450 1 0 2 10 2.43472 1.4 0" biasprm="0.01 1.20174 450 1 0 2 10 2.43472 1.4 0"/>
 
     </actuator>
 </mujocoinclude>

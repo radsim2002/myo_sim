@@ -31,9 +31,24 @@ model = mujoco.MjModel.from_xml_string("""
 <geom name="terrain" type="hfield" hfield="terrain" pos="0 0 -0.005" material="matfloor" conaffinity="1" contype="1" rgba="1 1 1 0"/>
 <site name="pelvis_target" size="0.02" pos="0 0 .92" group="4"/>
 <body name="root" pos="0 0 1" euler="0 0 -1.57">
+<freejoint name="root"/>
+<inertial mass="1.0" pos="0 0 0" diaginertia="0.01 0.01 0.01"/>
+<body name="test">
+<joint name="pelvis_tx" range="-5 5" limited="false" user="0.369999999988462" ref="0" axis="1 0 0" type="slide" damping="0" stiffness="0"/>
+<joint name="pelvis_ty" range="-1 2" limited="false" user="0.9999999999157" ref="0" axis="0 1 0" type="slide" damping="0" stiffness="0"/>
+<joint name="pelvis_tz" range="-5 5" limited="false" user="0.555999999984879" ref="0" axis="0 0 1" type="slide" damping="0" stiffness="0"/>
+<joint name="pelvis_rotation" range="-0.2618 6.283" limited="true" user="0.0" ref="0" axis="0 1 0" type="hinge" damping="0" stiffness="0"/>
+<joint name="pelvis_tilt" range="-3.14 3.14" limited="true" user="0.0" ref="0" axis="0 0 1" type="hinge" damping="0" stiffness="0"/>
+<joint name="pelvis_list" range="-3.14 3.14" limited="true" user="0.0" ref="0" axis="1 0 0" type="hinge" damping="0" stiffness="0"/>
+                
 <include file="../torso/assets/myotorso_rigid_chain.xml"/>   
 <include file="../leg/assets/myolegs_chain.xml"/>
-<freejoint name="root"/>
+
+
+
+
+
+</body>
 </body>
 </worldbody>
 <!-- 
@@ -48,5 +63,8 @@ model = mujoco.MjModel.from_xml_string("""
 </mujoco>
 
 """)
+
+
+
 
 launch(model)

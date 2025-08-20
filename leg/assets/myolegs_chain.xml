@@ -104,6 +104,7 @@
         <site name="PS_at_brim_l_site_psoas_l_side" pos="-0.0209166 -0.0856869 -0.0790765"/>
         <site name="IL_at_brim_r_site_iliacus_r_side" pos="-0.02526034 -0.0256276 0.0928915"/>
         <site name="IL_at_brim_l_site_iliacus_l_side" pos="-0.00526034 -0.0756276 -0.0828915"/>
+
         <body name="femur_r" pos="-0.056276 -0.07849 0.07726">
             <site name="hip_r" class="myo_leg_marker"/>
             <inertial pos="0 -0.195 -0.0005" quat="0.708013 -0.7062 0 0" mass="8.4" diaginertia="0.1694 0.1694 0.0245269" />
@@ -181,12 +182,7 @@
                 <joint axis="-3.98373e-10 -0.0707131 -0.997497" name="knee_angle_r" pos="0 0 0" range="0 2.0944"/>
                 <joint axis="0.992246 0.123982 -0.00878916" name="knee_angle_r_rotation2" pos="0 0 0" range="-0.00167821 0.0335354"/>
                 <joint axis="-0.124293 0.989762 -0.0701648" name="knee_angle_r_rotation3" pos="0 0 0" range="1.08939e-08 0.262788"/>
-
-
-
-
-
-
+                
                 <geom name="r_tibia1_col" size=".056" class="coll" fromto="0 0 0 -0.01 -0.14 .0025" mass="3.8"/> <!-- 14cms -->
                 <geom name="r_tibia2_col" size=".048" class="coll" fromto="-0.01 -0.14 .0025 -0.01 -0.35 .005" mass="3.8"/>
                 <geom mesh="r_tibia" name="r_tibia" type="mesh"/>
@@ -286,14 +282,8 @@
 					<site name="RLC_marker" pos="-0.002305 0.01 0.035" size="0.01" group="4" rgba="1 0.1 0.5 0.5"/>
 					<site name="RMC_marker" pos="0.02041 0.03 -0.03" size="0.01" group="4" rgba="1 0.1 0.5 0.5"/>
 
-                    
-                    
-
                     <site name="gaslat_r-P2" pos="0.0044 0.031 -0.0053"/>
                     <site name="gasmed_r-P2" pos="0.0044 0.031 -0.0053"/>
-
-                    
-
                     <site name="RCAL" pos="-0.025 0.02 -0.005"/>
                     <site name="RTOE" pos="0.205 0.0297 -0.03"/>
                     <site name="RMT5" pos="0.145 0.0249 0.059"/>
@@ -302,23 +292,6 @@
                     <geom name="r_foot_col4" type="ellipsoid" size=".085 .035 0.04" class="coll" pos="0.08 .02 0" euler="0 0 -.2"/>
                     <site name="r_foot_touch" type="box" pos="0.09 -.01 0.0" size=".1 .01 .055" euler="0 0 0" class="myo_leg_touch"/>
                     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 					<body name="r_midfoot" pos="0.047 0.025 0.004">
 						<inertial pos="0.0153464 0.00641489 0.000407659" quat="0 0.707107 0 0.707107" mass="0.20921" diaginertia="0.00101891 0.001 0.001"/>
 						<joint name="midtarsal_angle_r" pos="0 0 0" axis="0.800049 0.482653 -0.356325" range="-0.5236 0.5236"/>
@@ -374,7 +347,6 @@
 								<site name="RD5_marker" pos="0.02534 0.02 0.03573" size="0.01" group="4" rgba="1 0.1 0.5 0.5"/>
                                 <geom name="r_bofoot_col1" size=".0175 .045" class="coll" zaxis="0.880954 0 -0.813936" pos="0.04 0 .01"/>
                                 <geom name="r_bofoot_col2" size=".02 .040" class="coll" zaxis="0.580954 0 -0.813936" pos="0.01 0 0"/>
-                                
                                 <site name="r_toes_touch" type="box" pos="0.0275 -.01 0" size=".04 .01 .0675" euler="0 -.7 0" class="myo_leg_touch"/>
                                 
                                 </body>
